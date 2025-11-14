@@ -16,8 +16,8 @@
 html,body{height:100%}
 body {
     margin: 0;
-    background: linear-gradient(135deg, #1e3c72, #2a5298);
-    color: #ffffff;
+    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    color: #e6e6f8;
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
   line-height:1.45;
@@ -183,3 +183,4 @@ a:hover { text-decoration:underline; }
   text-decoration: underline;
 
 }
+
